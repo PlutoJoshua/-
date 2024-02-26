@@ -1,0 +1,7 @@
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+
+# 한국어가 적힌 데이터를 시각화 하기 위한 기본 설정
+
+plt.rc('font', family='Malgun Gothic')
+mpl.rcParams['axes.unicode_minus'] = False
