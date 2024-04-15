@@ -1,6 +1,6 @@
 깃허브 연습을 하다가 소스코드 Change 부분이 만 개 이상 떠있는 걸 발견했다
 지금은 원래대로 되돌려서 1개만 나온다
-![[Pasted image 20240415085626.png]]
+![Pasted image 20240415085626.png]https://github.com/PlutoJoshua/DoitGit-github2/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-15%20085505.png?raw=true
 
 열심히 구글링 해본 결과, 아래의 방법으로 하면 된다
 
