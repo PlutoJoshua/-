@@ -31,7 +31,7 @@ https://learn.microsoft.com/en-us/answers/questions/1164245/unable-to-install-py
 
 아무래도 내 컴퓨터에 깔려있는 다른 것과 현재 파이썬 버전이 충돌하는 모양인데 정확한 원인은 모르겠다
 
-![3](https://github.com/PlutoJoshua/Python/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-16%20100242.png?raw=true)
+![3](https://github.com/PlutoJoshua/Python/blob/main/Photo/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-16%20100242.png?raw=true)
 
 이유를 알게 되면 추가로 업로드할 예정이다
 
