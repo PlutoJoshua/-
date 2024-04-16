@@ -17,11 +17,11 @@ https://learn.microsoft.com/en-us/answers/questions/1164245/unable-to-install-py
 
 포기하지 말자.... 진짜로
 
-![1](https://github.com/PlutoJoshua/Python/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-16%20100242.png?raw=true)
+![1](https://github.com/PlutoJoshua/Python/blob/main/Photo/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-16%20100030.png?raw=true)
 
 이렇게 뜨는데 진짜 열받았다...^ ^
 
-![[스크린샷 2024-04-16 100500.png]]
+![2](https://github.com/PlutoJoshua/Python/blob/main/Photo/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-16%20100500.png?raw=true)
 
 심지어 런 관련 버튼도 사라짐 왜이러는건데 ~~~
 
@@ -31,10 +31,10 @@ https://learn.microsoft.com/en-us/answers/questions/1164245/unable-to-install-py
 
 아무래도 내 컴퓨터에 깔려있는 다른 것과 현재 파이썬 버전이 충돌하는 모양인데 정확한 원인은 모르겠다
 
-![[스크린샷 2024-04-16 100242.png]]
+![3](https://github.com/PlutoJoshua/Python/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-16%20100242.png?raw=true)
 
 이유를 알게 되면 추가로 업로드할 예정이다
 
-![[스크린샷 2024-04-16 100448.png]]
+![4](https://github.com/PlutoJoshua/Python/blob/main/Photo/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-16%20100448.png?raw=true)
 
 Run All이 이렇게나 반가울 줄이야 ㅠㅜ
